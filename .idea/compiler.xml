@@ -19,6 +19,7 @@
         <module name="mall-product" />
         <module name="mall-member" />
         <module name="order" />
+        <module name="mall-gateway" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -27,6 +28,7 @@
       <module name="mall" target="1.5" />
       <module name="mall-common" target="1.8" />
       <module name="mall-coupon" target="1.8" />
+      <module name="mall-gateway" target="1.8" />
       <module name="mall-member" target="17" />
       <module name="mall-order" target="1.8" />
       <module name="mall-product" target="1.8" />
@@ -45,6 +47,7 @@
       <module name="coupon (1) (com.doucode.mall.coupon)" options="-parameters" />
       <module name="mall-common" options="-parameters" />
       <module name="mall-coupon" options="-parameters" />
+      <module name="mall-gateway" options="-parameters" />
       <module name="mall-member" options="-parameters" />
       <module name="mall-order" options="-parameters" />
       <module name="mall-product" options="-parameters" />

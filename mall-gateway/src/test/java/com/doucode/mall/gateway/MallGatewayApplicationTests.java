@@ -1,10 +1,11 @@
-package com.doucode.mall.common;
+package com.doucode.mall.gateway;
+
 
 import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MallCommonApplicationTests {
+class MallGatewayApplicationTests {
 
     @Test
     void contextLoads() {
